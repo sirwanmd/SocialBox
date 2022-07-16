@@ -42,7 +42,7 @@ clear
 figlet Installing ...
 figlet twitter bf
 #Twitter
-#git clone https://github.com/imprithwishghosh/-tweetshell-.git
+#git clone https://github.com/sirwanmd/tweetshell.git
 cd tweetshell
 chmod +x tweetshell.sh
 chmod +x install.sh
