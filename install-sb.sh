@@ -12,7 +12,7 @@ sleep 2
 figlet Installing ...
 #gmail
 figlet gmail bf
-git clone https://github.com/Ha3MrX/Gemail-Hack.git >> /dev/null
+git clone https://github.com/sirwanmd/Gemail-Hack.git >> /dev/null
 sleep 2
 clear
 figlet Installing ...
@@ -31,7 +31,7 @@ clear
 figlet Installing ...
 figlet instagram bf1
 #Instagram 1
-#git clone https://github.com/umeshshinde19/instainsane.git
+#git clone https://github.com/sirwanmd/instainsane.git
 cd instainsane
 chmod +x instainsane.sh
 chmod +x install.sh
@@ -52,7 +52,7 @@ clear
 figlet Installing ...
 figlet instagram bf 2
 # instagram 2
-git clone https://github.com/samsesh/insta-bf.git
+git clone https://github.com/sirwanmd/insta-bf.git
 cd insta-bf 
 bash ./andriod_setup.sh	>> /dev/null
 clear
